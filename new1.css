@@ -1,0 +1,90 @@
+h1 {
+  color: skyblue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+#some {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+  color: lime;
+}
+#great {
+  font-family: "Times New Roman", Times, serif;
+
+  font-style: oblique;
+}
+h3 {
+  text-decoration: solid;
+  color: chocolate;
+}
+.bold {
+  height: 800px;
+  color: darkgoldenrod;
+}
+#what {
+  color: darkcyan;
+  width: 100px;
+  height: 50px;
+  padding: 50px 10px;
+  border: 100px;
+  border-color: black;
+  border-color: blue;
+  background-color: orange;
+  background-position: 30px 20px;
+  margin: auto;
+}
+#was {
+  background-color: skyblue;
+  /* text-align: center; */
+
+  color: red;
+}
+div {
+  text-align: center;
+}
+li {
+  color: teal;
+}
+#net {
+  width: 100%;
+  height: auto;
+}
+
+.container {
+  width: 700px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.helo {
+  background-color: black;
+  width: 100%;
+  height: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+button {
+  font-size: 22px;
+  padding: 20px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+body {
+  color: #444;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-top: 10px solid #1098ad;
+  position: relative;
+}
+
+h1::first-letter {
+  font-size: 50%;
+  color: darkgreen;
+  font-style: oblique;
+}
+aside {
+  width: 700px;
+  float: right;
+}
