@@ -10,7 +10,6 @@ h1 {
 }
 #great {
   font-family: "Times New Roman", Times, serif;
-
   font-style: oblique;
 }
 h3 {
@@ -35,7 +34,6 @@ h3 {
 }
 #was {
   background-color: skyblue;
-  /* text-align: center; */
 
   color: red;
 }
@@ -49,7 +47,6 @@ li {
   width: 100%;
   height: auto;
 }
-
 .container {
   width: 700px;
   height: auto;
@@ -78,7 +75,6 @@ body {
   border-top: 10px solid #1098ad;
   position: relative;
 }
-
 h1::first-letter {
   font-size: 50%;
   color: darkgreen;
